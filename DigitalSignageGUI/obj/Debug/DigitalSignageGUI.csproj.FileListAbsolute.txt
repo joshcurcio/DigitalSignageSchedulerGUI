@@ -1,0 +1,9 @@
+C:\Users\Josh31\Dropbox\Work-CSDepartment\DigitalSignageGUI\DigitalSignageGUI\bin\Debug\DigitalSignageGUI.exe.config
+C:\Users\Josh31\Dropbox\Work-CSDepartment\DigitalSignageGUI\DigitalSignageGUI\bin\Debug\DigitalSignageGUI.exe
+C:\Users\Josh31\Dropbox\Work-CSDepartment\DigitalSignageGUI\DigitalSignageGUI\bin\Debug\DigitalSignageGUI.pdb
+C:\Users\Josh31\Dropbox\Work-CSDepartment\DigitalSignageGUI\DigitalSignageGUI\obj\Debug\DigitalSignageGUI.csprojResolveAssemblyReference.cache
+C:\Users\Josh31\Dropbox\Work-CSDepartment\DigitalSignageGUI\DigitalSignageGUI\obj\Debug\DigitalSignageGUI.Form1.resources
+C:\Users\Josh31\Dropbox\Work-CSDepartment\DigitalSignageGUI\DigitalSignageGUI\obj\Debug\DigitalSignageGUI.Properties.Resources.resources
+C:\Users\Josh31\Dropbox\Work-CSDepartment\DigitalSignageGUI\DigitalSignageGUI\obj\Debug\DigitalSignageGUI.csproj.GenerateResource.Cache
+C:\Users\Josh31\Dropbox\Work-CSDepartment\DigitalSignageGUI\DigitalSignageGUI\obj\Debug\DigitalSignageGUI.exe
+C:\Users\Josh31\Dropbox\Work-CSDepartment\DigitalSignageGUI\DigitalSignageGUI\obj\Debug\DigitalSignageGUI.pdb
